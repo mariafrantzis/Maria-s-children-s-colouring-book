@@ -7,11 +7,21 @@ This prject addresses the practical problem of creating engaging and interactive
 
 **Tecgnolgies used**
 
+Processing in Python mode
 
 **Features**
 
-Interactive cover page
-Table of contents
-Simple images to colour
+- Interactive cover page
 
-**Screenshots**
+- Table of contents
+
+- Simple images to colour
+
+**Setup**
+
+
+**Room for improvement **
+
+- Create more options for images
+- Add more detail to contents page to make it less bland
+
