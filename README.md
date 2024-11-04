@@ -19,9 +19,9 @@ Processing in Python mode
 
 **Setup**
 
-
-**Room for improvement **
+**Room for improvement**
 
 - Create more options for images
+  
 - Add more detail to contents page to make it less bland
 
