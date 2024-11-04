@@ -25,3 +25,7 @@ Processing in Python mode
   
 - Add more detail to contents page to make it less bland
 
+**Contact**
+
+Created by Maria Frantzis- feel free to contact me!
+
