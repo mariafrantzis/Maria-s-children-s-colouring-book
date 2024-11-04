@@ -17,13 +17,15 @@ Processing in Python mode
 
 - Simple images to colour
 
-**Setup**
+**Project Status**
+
+Project is: still being worked on to create more images and options for children
 
 **Room for improvement**
 
 - Create more options for images
   
-- Add more detail to contents page to make it less bland
+- Add more detail to contents page to make it more exciting
 
 **Contact**
 
